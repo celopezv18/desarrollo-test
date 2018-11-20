@@ -1,0 +1,18 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "Producto1",
+      "tipo": "tipo1",
+      "categoria": "Tecnologia",
+      "stock": "300"
+    },
+    {
+      "id": 6,
+      "nombre": "Pc",
+      "tipo": "tipo1",
+      "categoria": "Tecnologia",
+      "stock": "200"
+    }
+  ]
+}

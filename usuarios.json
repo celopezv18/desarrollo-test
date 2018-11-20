@@ -1,0 +1,17 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Cesar Lopez",
+      "email": "celopez016@gmail.com",
+      "password": "celopez18"
+    },
+    {
+      "id": 2,
+      "nombre": "Pedro Pérez",
+      "email": "pedro@gmail.com",
+      "password": "pedro",
+      "password2": "pedro"
+    }
+  ]
+}
